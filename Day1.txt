@@ -1,0 +1,40 @@
+Full Stack Web Development with Django and REST API
+****************************************************
+
+Full Stack
+-----------
+Diagram
+
+Web Development :
+-----------------
+Diagram
+
+Django:
+-------
+	--> It is a FREE and Opensource Web Framework.
+	--> Django will make use of Python.
+	--> Python --> www.python.org.
+	--> Official Website --> djangoproject.com.
+
+	--> Django was created in 2003 as an internal project at 'Lowrence Journal word news paper'.
+	--> Officially Django Framework was released as Open Source Framework on "July 21st 2005".
+	--> Adrian Holovaty and Simon Willison invented Django Framework.
+	--> Django Framework was named in the memory of famous Guitarist 'Django Reinhardt'.
+	--> Django Software Foundation will maintain Django Framework.
+	--> It is used by several top websites like YOUTUBE, INSTAGRAM, GOOGLE, NASA, MOZILLA.......................
+
+Features of Django:
+-------------------
+	--> Fast
+	--> Secured
+	--> Full Loaded
+	--> Scalability (It meets heavy demands (100 Users, 10000 Users, 1 Lakh Users))
+	--> Versatile (It is used in different sectors)
+		--> Small Application
+		--> Big Application
+		--> Scientific Application
+
+Note:
+------
+	--> Django is specially designed for Web Application Framework, the most commonly required activities will be taken care by Django
+Framework automatically. So that developers can Develop the Applications very easily.

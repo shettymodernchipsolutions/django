@@ -1,0 +1,51 @@
+REST API:
+---------
+
+Prerequisites - Python + Django
+
+Basic Terminologies:
+--------------------
+--> API
+--> Web API/ Web Service
+--> REST
+--> REST API/ RESTful API/RESTful Web API
+--> Django REST Framework
+
+API (Application Programming Interface):
+----------------------------------------
+		--> API is nothing but the interface of communication between the user and Application, the End user can be Human(end 
+user), Android Application, Desktop Application, Java/Python Applications.		
+
+ex1:
+----
+Mobile Phone	-->	Keypad(Buttons)
+(Nokia 1100)		   (Interface)
+
+ex2:
+----
+ATM Machine	-->	Screen (GUI/UI)	
+			   (Interface)		
+
+Diagram 1
+
+NOTE:
+-----
+	--> To access the functionality of one application by the enduser/other applications we should make use of API.
+	--> One application can communicate with other application using Interface/API.
+	--> The main objective of API is, it will allow 2 applications to communicate in order to Integrate and Exchange the 
+information between them.	
+	    
+
+REST(Representational State Transfer) API:
+------------------------------------------
+	--> REST is an Architectural Style.
+	--> It defines several rules/guidelines to develop Web API / Web Service.	
+
+NOTE:
+-----
+	--> Using REST API we can achieve "INTEROPERABILITY".
+	--> INTEROPERABILITY means the ability of the softwares to exchange the information.
+
+--------------------------------------------------------------------------------------------------- 
+IP Address
+Port No
