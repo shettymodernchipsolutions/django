@@ -1,0 +1,16 @@
+<body>
+<form method="POST">
+    {% csrf_token %}
+    Enter Student Name:<input type="text" name="sn"><br><br>
+    Enter Student Id:<input type="text" name="id"><br><br>
+    English:<input type="text" name="english"><br><br>
+    Maths:<input type="text" name="maths"><br><br>
+    Science:<input type="text" name="science"><br><br>
+    Social_Studies:<input type="text" name="socialscience"><br><br>
+    Hindi:<input type="text" name="hindi"><br><br>
+    Kannada:<input type="text" name="kannada"><br><br>
+    <input type="submit" value="Register">
+</form>
+<p><b>{{ context }}</b></p>
+</body>
+</html>
